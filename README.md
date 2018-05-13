@@ -19,6 +19,16 @@ Click on one of the links below to get the desired workflow. Workflow will ask f
  - [Change Site] Log a pump site change to CarePortal.
  - [Enter Carbs] Enter carbs in CarePortal for a specified time.
 
+Temporary Target:
+
+ - mmol/L, Top/Bottom target, Reason - https://workflow.is/workflows/2969cc5536a5438db1a5a991764c1100
+ - mg/dL, Top/Bottom target, Reason - https://workflow.is/workflows/d73609b5c9964504ac2cf4a92c0b0f9f
+
+ - mmol/L, single target, Reason - https://workflow.is/workflows/97de16f6dbc044e4ab08c0c0c30c12bb
+ - mg/dL, single target, Reason - https://workflow.is/workflows/69758b65369541158458deaa9bfa5e46
+
+ - mmol/L, single target - https://workflow.is/workflows/4bf6cd68fa0048f393ad74ddb21878e6
+ - mg/dL, single target - https://workflow.is/workflows/1143b9b1f059476688978ae21f275e8e
 
 ### Todos
 
